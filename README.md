@@ -1,5 +1,23 @@
-### Hi there 👋
+ ## Home 🚀
+Hola, soy de Argenina, mi nombre es Nicolas y estoy empenzando mi camino en este mundo.
+* El objetivo de este perfil es subir mi avance formativo profesional a travez del tiempo; esto incluye ejercicios, examenes, trabajos practicos relacionados a materias informaticas y proyectos personales.
 
+## Linea de tiempo ⏱
+<details>
+<summary> 13/03/2023 - ##/##/2023 </summary>
+Python -> Intermedio
+<br>
+ Temas:
+<br>
+Git/Github -> Basico
+<br>
+ Temas:
+<br>
+C -> Basico
+<br>
+ Temas:
+<br>
+</details>
 <!--
 **nicorf12/nicorf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
