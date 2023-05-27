@@ -1,5 +1,5 @@
  ## Home 🚀
-Hola, soy de Argenina, mi nombre es Nicolas y estoy empenzando mi camino en este mundo.
+Hola, soy de Argentina, mi nombre es Nicolas y estoy empezando mi camino en este mundo.
 * El objetivo de este perfil es subir mi avance formativo profesional a travez del tiempo; esto incluye ejercicios, examenes, trabajos practicos relacionados a materias informaticas y proyectos personales.
 
 ## Linea de tiempo ⏱
