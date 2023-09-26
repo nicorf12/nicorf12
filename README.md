@@ -1,6 +1,6 @@
  ## Home 🚀
 Hola, soy de Argentina, mi nombre es Nicolas y estoy empezando mi camino en este mundo.
-* El objetivo de este perfil es subir mi avance formativo profesional a travez del tiempo; esto incluye ejercicios, examenes, trabajos practicos relacionados a materias informaticas y proyectos personales.
+* El propósito de este perfil es documentar y compartir mi progreso y desarrollo profesional a lo largo del tiempo. Esto incluye la publicación de ejercicios, exámenes, trabajos prácticos relacionados con materias informáticas, así como proyectos personales.
 
 ## Linea de tiempo ⏱
 <details>
