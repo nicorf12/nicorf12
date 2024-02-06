@@ -26,3 +26,6 @@ El objetivo de este perfil es documentar y compartir mi progreso y desarrollo pr
 </div>
 
 ## <div align="center">Estadisticas 📖</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicorf12&layout=compact&theme=tokyonight&hide_border=true" alt="estadisticas" />
+</div>
