@@ -1,34 +1,28 @@
- ## Home 🚀
-Hola, soy de Argentina, mi nombre es Nicolas y estoy empezando mi camino en este mundo.
-* El propósito de este perfil es documentar y compartir mi progreso y desarrollo profesional a lo largo del tiempo. Esto incluye la publicación de ejercicios, exámenes, trabajos prácticos relacionados con materias informáticas, así como proyectos personales.
+ ##  <div align="center">Home 🚀</div>
+Hola, mi nombre es Nicolas, soy de argentino y estoy empezando mi camino en este mundo.
+<br>
+El objetivo de este perfil es documentar y compartir mi progreso y desarrollo profesional a lo largo del tiempo, incluyendo la publicación de ejercicios, exámenes y trabajos prácticos relacionados con materias informáticas, así como proyectos personales. Actualemente me encuentro en 3er año de <b>ingenieria informatica</b> en la [***Universdidad de Buenos Aires***](https://www.uba.ar/) (UBA). Tengo intenciones de especializarme en <b>ciberseguridad</b> pero me encuentro en una etapa de absorber todo tipo de conocimiento. En mis tiempos libres edito fotos y videos sobre temas extracurriculares.
 
-## Linea de tiempo ⏱
-<details>
-<summary> 13/03/2023 - ##/##/2023 </summary>
-Python -> Intermedio
-<br>
- Temas:
-<br>
-Git/Github -> Basico
-<br>
- Temas:
-<br>
-C -> Basico
-<br>
- Temas:
-<br>
-</details>
-<!--
-**nicorf12/nicorf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">Tecnologias 🌏</div>
+<div align="center">
+  <h3>Lenguajes de Programacion</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,go,python,javascript" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>Desarollo web</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Otras Herramientas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,discord,ps" />
+  </a>
+</div>
+
+## <div align="center">Estadisticas 📖</div>
