@@ -7,7 +7,7 @@ El objetivo de este perfil es documentar y compartir mi progreso y desarrollo pr
 <div align="center">
   <h3>Lenguajes de Programacion</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,go,python,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,go,python,javascript,java" />
   </a>
 </div>
 
