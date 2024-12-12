@@ -14,7 +14,7 @@ El objetivo de este perfil es documentar y compartir mi progreso y desarrollo pr
 <div align="center">
   <h3>Otras Herramientas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,git,discord,ps,html,css" />
+    <img src="https://skillicons.dev/icons?i=ps,vscode,idea,linux,git,github,mysql,mongo,gradle,react,docker,bash,gherkin,postman,spring,sqlite" />
   </a>
 </div>
 
